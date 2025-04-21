@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Sofia Caetano🎀
 
 - 💗 Estudando CSS, HTML e JavaScript
-- 🩰 Pronome: ela/dela
+- 🩰 Pronomes: ela/dela
 
  
 ![monokai](https://github-readme-stats.vercel.app/api?username=sofiacaet&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai&locale=pt-br) 
